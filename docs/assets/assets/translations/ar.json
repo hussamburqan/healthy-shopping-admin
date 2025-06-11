@@ -343,5 +343,10 @@
     "MODERATE": "متوسط",
     "MILD": "خفيف",
     "verified": "موثق",
-    "no_data": "فارغ"
+    "no_data": "فارغ",
+    "of": "من",
+    "first_page": "الصفحة الاولى",
+    "previous_page": "الصفحة السابقة",
+    "next_page": "الصفحة القادمة",
+    "last_page": "الصفحة الاخيرة"
 }
